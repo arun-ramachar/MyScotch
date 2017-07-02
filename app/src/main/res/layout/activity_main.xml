@@ -31,7 +31,7 @@
         android:layout_marginStart="61dp"
         android:layout_marginTop="21dp"
         android:text="ARUN'S SCOTCH"
-        android:textSize="36dp"
+        android:textSize="36sp"
         android:textColor="#e61212"
         android:textStyle="italic"
         android:fontFamily="sans-serif-light"/>
